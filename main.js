@@ -54,7 +54,7 @@ function gotResult(error, results) {
       toSpeak = "Muito legal!";
       document.getElementById("result_object_gesture_icon").innerHTML = "&#128077;";
     }
-    else if(gesture == "vitoria")
+    else if(gesture == "vitória")
     {
       toSpeak = "Vitória maravilhosa!";
       document.getElementById("result_object_gesture_icon").innerHTML = "&#9996;";
